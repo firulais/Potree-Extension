@@ -10,7 +10,7 @@ then, install the gulp build tool.
 
     cd <potree_directory>
     npm install 
-    npm install -g gulp
+    npm install -g gulp@v3.9.1 --no-audit
 
 ## Usage
 
